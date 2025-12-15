@@ -1,5 +1,3 @@
-<img width="1827" height="775" alt="image" src="https://github.com/user-attachments/assets/c4175b10-c485-4a99-9c8b-e7b203e2150f" /><img width="5542" height="113" alt="image" src="https://github.com/user-attachments/assets/41ac25df-d32e-42c8-bc32-7554f1b40cee" /># DataRetrieval
-DataRetrieval
 Dense Retrieval：Sentence‑BERT 產生商品向量 -> 初步候選集
 Two‑Tower Model：使用者向量 vs 商品向量，對比式學習提升匹配能力
 BERT4Rec：根據使用者購物序列，重新排序候選商品
